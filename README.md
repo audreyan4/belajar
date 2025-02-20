@@ -1,4 +1,4 @@
 # belajar
 
 nama: A
-keterangan: belajargit 
+keterangan: belajargit t
